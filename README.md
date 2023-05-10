@@ -1,4 +1,4 @@
-# **Kodluyoruz Ilk Repo**
+# **Kodluyoruz Tatlı Tarifi Projesi**
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğum tatlı tarifi içeren bölüm ödevi. İçerisinde bir adet README dosyası, index.html, .gitignore dosyası barındırıyor.
 
 ![kodluyoruz gorsel](https://github.com/doubled00r/kodluyoruz-tatli-tarifi/blob/main/figures/magnolia_tarif_proje.png)
